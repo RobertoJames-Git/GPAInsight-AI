@@ -1,0 +1,17 @@
+.venv
+
+/.venv/Lib
+/.venv/Scripts
+/.venv/pyvenv.cfg
+
+__pycache__
+*.swp
+*.pyc
+.coverage
+*.BAC
+.pytest_cache
+dist/
+pyswip.egg-info/
+build/
+/.idea
+/.mypy_cache/

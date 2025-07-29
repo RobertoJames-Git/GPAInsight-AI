@@ -11,7 +11,7 @@ def get_db_connection():
     try:
 
         # Attempt to establish a connection to the online MySQL database
-        dbConn = mysql.connector.connect(host="localhost",user="root",password="",database="BackendDB")
+        dbConn = mysql.connector.connect(host="localhost",user="root",password="",database="sql5741398")
         
         # Check if the connection was successful
         if dbConn.is_connected():

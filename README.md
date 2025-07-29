@@ -7,4 +7,4 @@ of reports/alerts that provide information regarding students who are close to h
 current undergraduate student who has a cumulative GPA of below 2.0 at the end of an academic year
 will be placed on Academic Probation.
 
-**CONTRIBUTORS**: Roberto James
+**CONTRIBUTORS**: Roberto James, Kemar Christie
